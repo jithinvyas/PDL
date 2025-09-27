@@ -1,6 +1,7 @@
 class Employee:
     def __init__(self,name,age):
-        pass
+        self.name=name
+        self.age=age
         
     def show(self,name):
         pass
