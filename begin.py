@@ -4,4 +4,5 @@ class Employee:
         self.age=age
         
     def show(self,name):
+        print("line1")
         print(f"Hi {self.name}")
