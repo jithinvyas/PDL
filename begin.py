@@ -4,4 +4,4 @@ class Employee:
         self.age=age
         
     def show(self,name):
-        pass
+        print(f"Hi {self.name}")
